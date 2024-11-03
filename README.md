@@ -64,7 +64,7 @@ For Hardware:
 
 # Build Photos
 ![Build side profile](https://github.com/memidhun/Roady/blob/main/Resources/IMG_20241103_062925853_HDR.jpg)
-![Build Front Facing](https://github.com/memidhun/Roady/blob/main/Resources/IMG_20241103_062935764_HDR.jpg)
+![Build Front Facing](https://github.com/memidhun/Roady/blob/main/Resources/IMG_20241103_062944941_HDR.jpg)
 
 ![Final](Add photo of final product here)
 *Explain the final build*
