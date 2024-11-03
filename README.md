@@ -43,15 +43,8 @@ For the model we have used ```Python 3.11``` and as such we are using Tensorflow
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Build UI](https://github.com/memidhun/Roady/blob/main/UI/UI.mp4)
+This shows all the UI elements designed for this project. It shows the way the UI reacts to various scenarios and what the model output and the UI output for the various cases
 
 For Hardware:
 
