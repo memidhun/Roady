@@ -42,8 +42,9 @@ For the model we have used ```Python 3.11``` and as such we are using Tensorflow
 
 ### Project Documentation
 For Software:
+![UI](https://github.com/user-attachments/assets/bfc48c53-ab65-47b3-a136-c6afc57b9155)
 
-![Build UI](https://github.com/memidhun/Roady/blob/main/UI/UI.mp4)
+
 This shows all the UI elements designed for this project. It shows the way the UI reacts to various scenarios and what the model output and the UI output for the various cases
 
 For Hardware:
