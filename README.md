@@ -66,8 +66,7 @@ We are using a L293D motor driver sheild to power the motors controlling our rov
 
 # Additional Demos
 ![Predictor](https://github.com/user-attachments/assets/7ebeab1b-3836-4f3f-b5ed-3b165f351ca7)
-
-
+*This is footage of a model we trained to predict steerin angles and identify sloppy turnings and to check if proper steering inputs are being provided to the vehicle. 
 ## Team Contributions
 - Sidharth V Menon: Model creation, debugging, Git management
 - Midhun Mathew: Arduino programming, circuitry, web page development
