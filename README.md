@@ -50,18 +50,14 @@ This shows all the UI elements designed for this project. It shows the way the U
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![image](https://github.com/user-attachments/assets/c51e7350-0dae-4fe1-b26c-ea9866f17c42)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+We are using a L293D motor driver sheild to power the motors controlling our rover, one side is connected to one set of wheels and the other to another set of wheels. The polarity on the motors provided throught he sheild controls the direction of motion and the direction of movement of the rover.
 
 # Build Photos
 ![Build side profile](https://github.com/memidhun/Roady/blob/main/Resources/IMG_20241103_062925853_HDR.jpg)
 ![Build Front Facing](https://github.com/memidhun/Roady/blob/main/Resources/IMG_20241103_062944941_HDR.jpg)
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
