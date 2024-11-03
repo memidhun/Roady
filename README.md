@@ -65,7 +65,8 @@ We are using a L293D motor driver sheild to power the motors controlling our rov
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+![Predictor](https://github.com/user-attachments/assets/7ebeab1b-3836-4f3f-b5ed-3b165f351ca7)
+
 
 ## Team Contributions
 - Sidharth V Menon: Model creation, debugging, Git management
