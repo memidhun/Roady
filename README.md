@@ -1,38 +1,38 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Roady🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: SineWave
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Sidharth V Menon - Saintgits College Engineering
+- Member 2: Midhun Mathew - Saintgits College Engineering
+- Member 3: Abin Joe Francis - Saintgits College Engineering
 
 ### Project Description
-[2-3 lines about what your project does]
+Roady is an innovative project designed to assist learner drivers in honing their driving skills. Developed by the team at SineWave, Roady leverages advanced technologies to provide real-time feedback and personalized training modules. The project aims to make the learning process more engaging and effective, ensuring that new drivers gain confidence and competence behind the wheel. Whether it's mastering parallel parking or understanding road signs, Roady is your go-to companion for a safer and smarter driving experience. 🚗💨
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The average driver does not have a reliable good driver that can help them with their driving. There are an increasing number of accidents on the road and these risk the lives of people on and off the road(I know it sounds useful but who listens to anyone).
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We have made a Machine Learning model that can monitor the driving based on the steering input and tell the driver whether their turns were tight enough.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python,C
+- Arduino IDE, Git, VS Code
+- Tensorflow, scikit-learn, motor-driver.h
+- chatGPT, Figma, 
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Arduino UNO, SG90 Servo, Motor Driver Sheild, WebCam
+- 
+- Arduino IDE, PySerial, Soldering Iron, Foam boards, Hot Glue
 
 ### Implementation
 For Software:
