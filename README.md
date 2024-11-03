@@ -37,10 +37,8 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+For the model we have used ```Python 3.11``` and as such we are using Tensorflow 12.1.1 and the corresponding numpy version. Arduino IDE version 2.33 with the arduino uno motor driver sheild library is required. The software interface is entirely designed in Figma and is implemented using VS Code.
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
@@ -55,10 +53,6 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 For Hardware:
 
 # Schematic & Circuit
@@ -69,11 +63,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Build side profile](https://github.com/memidhun/Roady/blob/main/Resources/IMG_20241103_062925853_HDR.jpg)
+![Build Front Facing](https://github.com/memidhun/Roady/blob/main/Resources/IMG_20241103_062935764_HDR.jpg)
 
 ![Final](Add photo of final product here)
 *Explain the final build*
@@ -87,9 +78,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Sidharth V Menon: Model creation, debugging, Git management
+- Midhun Mathew: Arduino programming, circuitry, web page development
+- Abin Joe Francis: Dash and interface design and web page design
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
