@@ -62,11 +62,11 @@ We are using a L293D motor driver sheild to power the motors controlling our rov
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*The video demo demonstrates the movement of a remote control rover we built as part of the project for demoing the working of the project and this shows the camera feed we pulled and the working of thr rover and its various indication lights.*
 
 # Additional Demos
 ![Predictor](https://github.com/user-attachments/assets/7ebeab1b-3836-4f3f-b5ed-3b165f351ca7)
-*This is footage of a model we trained to predict steerin angles and identify sloppy turnings and to check if proper steering inputs are being provided to the vehicle. 
+*This is footage of a model we trained to predict steerin angles and identify sloppy turnings and to check if proper steering inputs are being provided to the vehicle.* 
 ## Team Contributions
 - Sidharth V Menon: Model creation, debugging, Git management
 - Midhun Mathew: Arduino programming, circuitry, web page development
