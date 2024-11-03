@@ -61,7 +61,7 @@ We are using a L293D motor driver sheild to power the motors controlling our rov
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+![Rover1-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/5333b1fb-6b87-4b5e-b93f-4077345cd2f8)
 *The video demo demonstrates the movement of a remote control rover we built as part of the project for demoing the working of the project and this shows the camera feed we pulled and the working of thr rover and its various indication lights.*
 
 # Additional Demos
